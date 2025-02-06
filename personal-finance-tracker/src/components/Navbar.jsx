@@ -49,7 +49,7 @@ const Navbar = () => {
                 </li>
               ))}
             </ul>
-            <div className="flex space-x-6">
+            <div className="flex space-x-6 mt-8">
               <a className="py-2 px-3 border rounded-md" href="#">
                 Sign In
               </a>
